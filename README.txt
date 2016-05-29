@@ -1,0 +1,1 @@
+Zbiorcze repozytorium z kodami przydatnymi podczas analizy danych
